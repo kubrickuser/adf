@@ -34,7 +34,7 @@
 			}
 		],
 		"typeProperties": {
-			"schema": "awheal",
+			"schema": "SalesLT",
 			"table": "ProductCategory"
 		}
 	}
